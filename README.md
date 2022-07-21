@@ -1,4 +1,4 @@
-# Khanrahan Python2
+# KHanrahan Python2
 
 ## How do I install these formulae?
 
